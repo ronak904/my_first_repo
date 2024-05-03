@@ -3,26 +3,27 @@
 // alert(3+3) // we are using nodejs, not browser
 
 console.log(3
-    +3) // code readability should  be high
+    +3) //code readability should be high
 
 console.log("bittu")
 
 
-let name="bittu"
-let age= 18
-let isloggedIn=false
+
+let name = "bittu"
+let age = 18
+let isloggedIn = false
+let state;
 
 
-// number =>2 to power 53
-// bigint
+// number=> 2 to power 53
+// bigint 
 // string => ""
-// boolean => true or false
-// null => standalone value
-// undefined =>
-// symbol => unique
-
-
+// bollean => true/false
+// null =>  standlone value
+// undefined => 
+//symbol => unique
 
 // object
 
-console.log(typeof undefined);
+console.log(typeof undefined);// undefined
+console.log(typeof null);//object
